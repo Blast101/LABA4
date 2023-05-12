@@ -1,0 +1,8 @@
+p{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid green;
+    padding: 3px;
+    display: flex;
+    position: relative;
+}
